@@ -16,7 +16,7 @@ We're a small team (I would even say a family) located in Minsk,Belarus. This is
 
 Who we're looking for: a person with
 - Good JS experience (3+ years) and deep understand of all basics
-- Experience with signle page JS apps
+- Experience with single page JS apps
 - Strong knowledge of HTML/CSS
 - Understanding of general patterns in web apps
 - Experience with one of frameworks (Angular (preferrable), React, Backbone or Ember)
